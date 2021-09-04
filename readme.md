@@ -1,10 +1,10 @@
 # Hi there 👋 this is znc15
 # 一个废物Minecraft服务端开发者 & LGV30 Flyme9的维护者
 [![znc15 GitHub stats](https://github-readme-stats.vercel.app/api?username=znc15&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/znc15)
-## How's life
-- 📱 I make shiny rectangles run Linux
-- 💻 Currently working on LineageOS, Ubports and Droidian
-- 🩺 Struggling with medicine books
+## 我在做什么
+- 📱 制作圆云Minecraft的服务器端
+- 💻 制作LGV30的Flyme9和其他刷机包
+- 🩺 努力考本科
 
 ## 都在用什么语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanoabdi&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/erfanoabdi)
