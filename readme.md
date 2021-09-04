@@ -7,7 +7,7 @@
 - 🩺 努力考本科
 
 ## 都在用什么语言
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanoabdi&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/erfanoabdi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erfanoabdi&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/znc15)
 
 ## 我知道什么语言
 ![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
