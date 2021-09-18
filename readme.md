@@ -17,7 +17,8 @@
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
-![javascript](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)
-![VB](https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-icon.svg)
 ![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
 ![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
+## 我会的语言
+![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
+![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
