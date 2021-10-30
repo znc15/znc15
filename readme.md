@@ -1,6 +1,6 @@
 # Hi there 👋 this is znc15
 # 一个废物Minecraft服务端开发者 & LGV30 Flyme9的维护者
-[![znc15 GitHub stats](https://github-readme-stats.vercel.app/api?username=znc15&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/znc15)
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=mashirozx&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
 ## 我在做什么
 - 📱 制作圆云Minecraft的服务器端
 - 💻 制作LGV30的Flyme9和其他刷机包
