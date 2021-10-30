@@ -28,3 +28,4 @@
 
 ### Links
 [<img height="26" src="https://shields.io/badge/Zhihu-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://www.zhihu.com/people/znc-8)
+[<img height="26" src="https://shields.io/badge/QQ-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://www.zhihu.com/people/znc-8)
