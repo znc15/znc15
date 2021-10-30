@@ -22,4 +22,4 @@
 ## 我会的语言
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-<img alt="Genshin game card" src="https://genshin-card.getloli.com/49/177351194.png" width="500">
+<img alt="Genshin game card" src="https://genshin-card.getloli.com/49/268138981.png" width="500">
