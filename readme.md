@@ -10,16 +10,6 @@
 ## 都在用什么语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znc15&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/znc15)
 
-## 我知道什么语言
-![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)
-![GIT](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)
-<img src="https://github.com/isocpp/logos/raw/master/cpp_logo.svg" width="64">
-![Bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![PHP](https://www.vectorlogo.zone/logos/php/php-icon.svg)
-![Jenkins](https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg)
-![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)
 ## 我会的语言
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
