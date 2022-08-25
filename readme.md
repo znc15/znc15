@@ -14,7 +14,7 @@
 ![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
 ![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ## 关于原神
-[img]https://genshin-card.himiku.com/rand/268138981.png[/img]
+![](https://genshin-card.himiku.com/rand/268138981.png)
 
 ### Links
 [<img height="26" src="https://shields.io/badge/Zhihu-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://www.zhihu.com/people/znc-8)
