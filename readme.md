@@ -10,11 +10,8 @@
 ## 都在用什么语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znc15&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/znc15)
 
-## 我会的语言
-![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)
-![Java](https://www.vectorlogo.zone/logos/java/java-icon.svg)
 ## 关于原神
-![](https://genshin-card.himiku.com/rand/268138981.png)
+![Genshin Impact](https://ys.himiku.com/rand/268138981.png)
 
 ### Links
 [<img height="26" src="https://shields.io/badge/Zhihu-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://www.zhihu.com/people/znc-8)
