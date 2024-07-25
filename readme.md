@@ -12,6 +12,3 @@
 
 ## 关于原神
 ![Genshin Impact](https://ys.himiku.com/rand/268138981.png)
-
-### Links
-[<img height="26" src="https://shields.io/badge/Zhihu-ffffff.svg?style=flat-square&logo=zhihu" alt="Zhihu" />](https://www.zhihu.com/people/znc-8)
