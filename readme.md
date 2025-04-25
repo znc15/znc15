@@ -4,6 +4,3 @@
 
 ## 都在用什么语言
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=znc15&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/znc15)
-
-## 关于原神
-![Genshin Impact](https://ys.himiku.com/rand/268138981.png)
